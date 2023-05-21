@@ -23,3 +23,6 @@ Facade Pattern
 
 ## 享元模式
 Flyweight Pattern
+
+## 代理模式
+Proxy Pattern
