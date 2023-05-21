@@ -8,3 +8,6 @@ Prototype Pattern
 
 ## 适配器模式
 Adapter Pattern
+
+## 桥接模式
+Bridge Pattern
