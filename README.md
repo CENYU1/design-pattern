@@ -14,3 +14,6 @@ Bridge Pattern
 
 ## 组合模式
 Composite Pattern
+
+## 装饰器模式
+Decorator Pattern
