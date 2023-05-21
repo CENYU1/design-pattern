@@ -20,3 +20,6 @@ Decorator Pattern
 
 ## 外观模式(门面模式)
 Facade Pattern
+
+## 享元模式
+Flyweight Pattern
