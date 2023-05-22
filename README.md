@@ -38,3 +38,6 @@ Command Pattern
 
 ## 状态模式
 State Pattern
+
+## 观察者模式
+Observer Pattern
