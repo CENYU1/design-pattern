@@ -32,3 +32,6 @@ Visitor Pattern
 
 ## 策略模式
 Strategy Pattern
+
+## 命令模式
+Command Pattern
