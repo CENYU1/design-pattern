@@ -26,3 +26,6 @@ Flyweight Pattern
 
 ## 代理模式
 Proxy Pattern
+
+## 访问者模式
+Visitor Pattern
