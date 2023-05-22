@@ -41,3 +41,6 @@ State Pattern
 
 ## 观察者模式
 Observer Pattern
+
+## 迭代器模式
+Iterator Pattern
