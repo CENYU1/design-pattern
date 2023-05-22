@@ -35,3 +35,6 @@ Strategy Pattern
 
 ## 命令模式
 Command Pattern
+
+## 状态模式
+State Pattern
